@@ -1,2 +1,2 @@
-# MyApp Header
+# MyApp
 This is my app in my first git repo
